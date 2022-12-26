@@ -16,7 +16,7 @@ Day30 https://www.notion.so/Day30-760639d3d0bc48f39b247339089b4b05
 
 Day117 https://www.notion.so/Day-BE-117_MariaDB-19cd133437644b8d8a2f4e544b623dfd
 
-Day118
+Day118 https://www.notion.so/Day-BE-118_DML-83f93200032e4c0586953c5f5b58bff7
 
 Day119
 
