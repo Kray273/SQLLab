@@ -18,8 +18,8 @@ Day117 https://www.notion.so/Day-BE-117_MariaDB-19cd133437644b8d8a2f4e544b623dfd
 
 Day118 https://www.notion.so/Day-BE-118_DML-83f93200032e4c0586953c5f5b58bff7
 
-Day119
+Day119 https://www.notion.so/Day-BE-119_-2-JOIN-2-49602b60d0ab4d6ebcf8edb2b7df6c0a
 
-Day120
+Day120 https://www.notion.so/Day-BE-120_-9c7e5acc6bb342debc450548af1dfad8
 
 Day121
