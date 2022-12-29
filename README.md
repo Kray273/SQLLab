@@ -22,4 +22,4 @@ Day119 https://www.notion.so/Day-BE-119_-2-JOIN-2-49602b60d0ab4d6ebcf8edb2b7df6c
 
 Day120 https://www.notion.so/Day-BE-120_-9c7e5acc6bb342debc450548af1dfad8
 
-Day121
+Day121 https://www.notion.so/Day-BE-121_-8dcab498ea8c4a83958e1fb5b7c98122
